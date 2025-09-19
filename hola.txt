@@ -1,1 +1,2 @@
-hola, este es mi primer repositorio en git  
+hola, este es mi primer repositorio en git
+agregando un saludo desde otra rama  
